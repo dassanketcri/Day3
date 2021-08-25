@@ -7,5 +7,7 @@ public class MainClass {
 
         XYZBank x2 = new XYZBank("MyBank", "USA", 4000);
         System.out.println(x2);
+
+        XYZBank x3 = new XYZBank();
     }
 }
